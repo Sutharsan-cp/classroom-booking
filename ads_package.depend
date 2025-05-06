@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1728909140 source:c:\users\mohan\onedrive\desktop\ads_package\main.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+	<queue>
+
